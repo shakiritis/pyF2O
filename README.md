@@ -3,7 +3,7 @@ Forged Image To Original Image Generation
 
     Version: 2.2.1    
     Author : Md. Nazmuddoha Ansary
-             Shakir Hossain  
+             Md. Shakir Hossain  
              Mohammad Bin Monjil  
              Habibur Rahman  
              Shahriar Prince  
